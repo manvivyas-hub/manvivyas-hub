@@ -1,9 +1,4 @@
-<!-- 🌷 PINK TULIP HEADER 🌷 -->
-
-<div align="center">
-
-<img src="https://share.google/eGykK5CgBBHGT4ANI" width="100%">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A0B8&height=180&section=header&text=&fontSize=0"/>
 <h1>Hi, I'm Manvi Vyas 👋</h1>
 
 <p>
@@ -77,9 +72,7 @@ programming and problem-solving skills.
 
 ---
 
-<div align="center">
-
-🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A0B8&height=100&section=footer"/>
 
 ### ✨ Thanks for visiting my profile! ✨
 
