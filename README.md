@@ -68,6 +68,11 @@ programming and problem-solving skills.
 <img src="https://img.shields.io/badge/LinkedIn-%23D9829B?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+
+<a href="https://instagram.com/manvi.nith">
+  <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
 </div>
 
 ---
