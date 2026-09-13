@@ -1,26 +1,30 @@
-<!-- TOP PINK WAVE -->
+<!-- 🌷 PINK TULIP HEADER 🌷 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=FADADD,F3A6B9,E88FA7,D76F8A&section=header&text=" width="100%"/>
+<img src="https://share.google/eGykK5CgBBHGT4ANI" width="100%">
+
+<h1>Hi, I'm Manvi Vyas 👋</h1>
+
+<p>
+🎓 Computer Science Engineering Student @ NIT Hamirpur
+</p>
 
 </div>
-# Hi, I'm Manvi Vyas 👋
-
-🎓 CSE Student @ NIT Hamirpur
 
 ---
 
 ## 🌸 About Me
 
-I'm a Computer Science Engineering student who enjoys learning
-new technologies and improving my programming skills.
+Hi! I'm Manvi, a Computer Science Engineering student
+who enjoys learning new technologies and improving my
+programming and problem-solving skills.
 
 - 💻 Interested in Programming & Web Development
 - 🌱 Currently learning Data Structures & Algorithms
 - 🤖 Exploring Artificial Intelligence
-- 🚀 Working on improving my coding skills
-- 📚 Always curious to learn something new
+- 🚀 Improving my coding and problem-solving skills
+- 📚 Always curious to learn new things
 
 ---
 
@@ -28,42 +32,56 @@ new technologies and improving my programming skills.
 
 ### Programming Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-%23E8A0B8?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-%23D9829B?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-%23E8A0B8?style=for-the-badge&logo=javascript&logoColor=white">
+</p>
 
 ### Web Development
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/HTML5-%23D9829B?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-%23E8A0B8?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
 ---
 
 ## 🛠️ Tools
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-%23D9829B?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose)
+🌷 **Projects coming soon...**
 
 ---
 
 ## 🌷 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<a href="https://github.com/manvivyas-hub">
+<img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/manvi-vyas-914b05385?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-%23D9829B?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=FADADD,F3A6B9,E88FA7,D76F8A&section=footer&text=" width="100%"/>
+🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷 🌷
+
+### ✨ Thanks for visiting my profile! ✨
 
 </div>
+
