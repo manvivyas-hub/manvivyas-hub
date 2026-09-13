@@ -1,7 +1,10 @@
 <!-- TOP PINK WAVE -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A0B8&height=180&section=header&text=&fontSize=0"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=FADADD,F3A6B9,E88FA7,D76F8A&section=header&text=" width="100%"/>
+
+</div>
 # Hi, I'm Manvi Vyas 👋
 
 🎓 CSE Student @ NIT Hamirpur
@@ -59,4 +62,8 @@ new technologies and improving my programming skills.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8A0B8&height=100&section=footer"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=FADADD,F3A6B9,E88FA7,D76F8A&section=footer&text=" width="100%"/>
+
+</div>
